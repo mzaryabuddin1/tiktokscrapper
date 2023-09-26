@@ -1,0 +1,23 @@
+{
+  "name": "tiktok-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cld3": "^1.4.0",
+    "country-in-text-detector": "^1.0.10",
+    "dotenv": "^16.3.1",
+    "face-api.js": "^0.22.2",
+    "franc-min": "^6.1.0",
+    "languagedetect": "^2.0.0",
+    "mongoose": "^7.3.0"
+  }
+}
